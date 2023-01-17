@@ -2,3 +2,4 @@ This repository will contain content in a specific folder, according to the main
 
 * <b>Arrays</b>
 * <b>Strings</b>
+* <b>Linked Lists</b>
