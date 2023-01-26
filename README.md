@@ -4,3 +4,4 @@ This repository will contain content in a specific folder, according to the main
 * <b>Strings</b>
 * <b>Linked Lists</b>
 * <b>Trees</b>
+* <b>Sorting and Searching</b>
