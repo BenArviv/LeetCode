@@ -5,3 +5,4 @@ This repository will contain content in a specific folder, according to the main
 * <b>Linked Lists</b>
 * <b>Trees</b>
 * <b>Sorting and Searching</b>
+* <b>Dynamic Programming</b>
